@@ -49,7 +49,56 @@ Apollo is the first instantaneous, collaborative genomic annotation editor avail
 Visualize genes in the Jbrowse viewer 
 http://genomearchitect.org
 
+### Machine learning 
+#### Cellular response dsta
+Barbara Engelhardt (Princetown University @ Chicago) explains how to analyze time-series expression data and how to interprete the response on A549 cell line. Classificaton of responses of geness in different clusters - meaning that different genes respond differently, with different time-repsonse curves - aim to understand gene regulation.
+http://biorxiv.org/content/early/2016/09/09/074419   
 
-    
+The Engelhardt Group develops statistical models and methods for high-dimensional genomic data. In particular, we study human genetic variation and its impact on genomic regulation, including gene expression and splicing, with the goal of identifying mechanisms of human disorders and diseases. There are a wide range of projects in these areas in the group (see Research for more information), including:
 
+Sparse factor analysis for estimating population structure, low-dimensional mapping of complex phenotypes, and gene co-expression analysis
+Statistical models for improving power to detect trans-expression quantitative trait loci and small genetic effects
+Alternative splicing and its role in complex phenotypes
+Global approaches to estimate differential networks
+Bayesian structured sparse regression for fine mapping of traits to genetic variants
+Genome-wide association studies for pharmacogenomic, metabolic, and cardiovascular phenotypes
+
+http://beehive.cs.princeton.edu/
+ 
+#### 
+Hhuang Y-F 
+Overcoming "needle in the stack problem" when analyzing RNAseq data : Current individual predictors : conversataion, TBFS binding sites, functionaly assays.  
+
+### Winner's curse  in qunatitative genmocds 
+https://en.wikipedia.org/wiki/Winner%27s_curse 
+http:/tinyurl.com/zjb92e 
+
+### Avanti Shrikumar - DeepLift Neural Networks  
+Neural networks go genomics - prediction of regulation of genes. 
+
+The research focusses on development of statistical and machine learning methods for integrative analysis of diverse 
+functional genomic and genetic data to learn models of gene regulation.  We have led the analysis efforts of the 
+Encyclopedia of DNA Elements (ENCODE) and The Roadmap Epigenomics Projects with the development of novel methods for        
+
+- Adaptive thresholding and normalization of massive collections of ChIP-seq and DNase-seq data
+- Dissecting combinatorial transcription factor co-occupancy within and across cell-types
+- Predicting cell-type specific enhancers from chromatin state profiles
+- Exploiting expression and chromatin co-dynamics with to predict enhancer-target gene links
+
+ Jointly modeling sequence grammars at regulatory elements and their chromatin state dynamics, expression 
+ changes of regulators and functional interaction data to learn unified multi-scale gene regulation programs
+
+- Elucidating the heterogeneity of chromatin architecture at regulatory elements 
+- Improving the detection and interpretation of potentially causal disease-associated variants from 
+  Genome-wide association studies
+
+
+Algorithms for computing importance scores in deep neural networks. Implements the methods in "Learning Important Features Through Propagating Activation Differences" by Shrikumar, Greenside, Shcherbina & Kundaje.
+Predicting sequence motifs - http://github.com/kundajelab/deeplift  
+Ask for slides ...
+
+#### Yulia Rubanova - Interpretation of mutational signatures 
+http://cancer.sanger.ac.uk/cosmic/signatures
+
+-> Use gene classifcation 
 
