@@ -141,3 +141,4 @@ Deep learning limitations :
 DL does not work well if we have small sample size and high dimensionality
 Mmany hign deimensinality,  low sample size problems typlical in genomics may not benefit from flexibility of deep learning, 
 
+Layers in DL: more layers help, until you start overfitting 
