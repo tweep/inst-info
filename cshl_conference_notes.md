@@ -102,3 +102,42 @@ http://cancer.sanger.ac.uk/cosmic/signatures
 
 -> Use gene classifcation 
 
+
+### Key lecture 
+
+Deep learning 
+- narrow def: multi layer neural networks 
+- broad : compsoable models trainable by graident 
+- mdouarl, can be buit from multiple layers 
+
+Learning progressively more complex represenations from simple representations 
+
+KEYNOTE for presentations ... 
+
+https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/ 
+
+
+#### benefits  / what has changed ?   
+- improved regularization 
+- improved optimization ( momentum RMsprop, ) 
+- faster computation ( gpu and paralell computing 
+- larger data  
+
+
+Real world example - deep convolutional network - how it works 
+- layered systesm 
+- Example: sequence analysis / image recognition
+- new territories: understanding RNA / DNA regulatory sequence 
+- prediction of proein structure ( secondary structure, contact map ) 
+ 
+Prroven areas transferrable to bilogy: 
+- computer vision 
+- experimental and clinical imag and video feature extraction 
+- qunatification of morpology and behaviour 
+- natural language processing 
+- literature mining and curations  
+
+Deep learning limitations : 
+DL does not work well if we have small sample size and high dimensionality
+Mmany hign deimensinality,  low sample size problems typlical in genomics may not benefit from flexibility of deep learning, 
+
