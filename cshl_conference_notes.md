@@ -20,7 +20,11 @@ Cold Spring Harbor Laboratory (CSHL) is a private, non-profit institution with r
 
 It is one of 68 institutions supported by the Cancer Centers Program of the U.S. National Cancer Institute (NCI) and has been an NCI-designated Cancer Center since 1987.[3] The Laboratory is one of a handful of institutions that played a central role in the development of molecular genetics and molecular biology.[4]
 
-It has been home to eight scientists who have been awarded the Nobel Prize in Physiology or Medicine. CSHL is ranked among the leading basic research institutions in the world in molecular biology and genetics.[5] The Laboratory is led by Bruce Stillman, a biochemist and cancer researcher.
+It has been home to eight scientists who have been awarded the Nobel Prize in Physiology or Medicine. CSHL is ranked among the leading basic research institutions in the world in molecular biology and genetics.[5] The Laboratory is led by Bruce Stillman, a biochemist and cancer researcher. 
+
+CHSL is partily NCI funded - so lots of people from NCBI. 
+- head of dbSNP 
+- Deanna Church / Senior director of applications @ 10x Genomics 
 
 #### Session 1 - 7:30 PM 
 Rafael A Irizarry  (Harvard, founder of Bioconductor ) opens the conference with nice talk. 
@@ -38,7 +42,12 @@ R notebooks - benefits of having documentation + code together.
 - comes with UI to annotate and modify visualizations   
 MetaR takes advantage of Language Workbench Technology
 - http://campagnelab.org/software/metaR/ 
-- http://campagnelab.org/ ( read laboratory focus)
+- http://campagnelab.org/ ( read laboratory focus) 
+
+#### Apollo Genome Annotation Tool  
+Apollo is the first instantaneous, collaborative genomic annotation editor available on the web. 
+Visualize genes in the Jbrowse viewer 
+http://genomearchitect.org
 
 
     
