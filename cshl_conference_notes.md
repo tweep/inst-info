@@ -32,5 +32,15 @@ Frank A Nnothaft ( Berkeley ) talks about ADAM and how they speed up the variant
 #### Intro on bioinformatics tools 
 - Biconductor talk from Martin. Talking about bioconductor and it's history. and the "hello ranges" - like Hello Kitty, just in R. 
 
-#### Fabien - R notebooks 
+#### Fabien - R notebooks  
+R notebooks - benefits of having documentation + code together. 
+- Introduction into R notebooks  
+- comes with UI to annotate and modify visualizations   
+MetaR takes advantage of Language Workbench Technology
+- http://campagnelab.org/software/metaR/ 
+- http://campagnelab.org/ ( read laboratory focus)
+
+
+    
+
 
