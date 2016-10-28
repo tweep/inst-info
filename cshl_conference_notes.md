@@ -154,20 +154,22 @@ https://github.com/youngser/behaviotypes
 Galaxy is going docker - using docker containers to for visualization 
 and server-side sorting - to sort and manipulate large scale data sets from a ligthtweight UI 
 
-##3 Talk 2 
+##3 Talk from PJ Tatlow  
 Processing large-scale data in the cloud, using Google Preempt VMs ( very cheap, max. 24h available, no guarantee) to save money.
 
 Achieved processing all of TCGA data (12,000 samples) for 800 $ in the cloud - RNAseq data. 
 - ideally alignment tools would support FASTQ and BAM 
 -rpvide twoversions of the sequencing reads 
 
-publication: " 
+publication: "" ?  
 
 Read about programs : Kallisto bwa    
 
 ## Talk thursday - Gene priorization 
 - Univariable - score each gene bassed on the correlation fo tis expression with drug response 
 ProGENI tool
+
+Theme: Complex workflwos on any cloud, with Docker containers is pretty much what everyone is doing.  
 
 
 
