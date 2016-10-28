@@ -141,4 +141,33 @@ Deep learning limitations :
 DL does not work well if we have small sample size and high dimensionality
 Mmany hign deimensinality,  low sample size problems typlical in genomics may not benefit from flexibility of deep learning, 
 
-Layers in DL: more layers help, until you start overfitting 
+Layers in DL: more layers help, until you start overfitting  
+
+
+### Machine learning : Iterative denoising trees 
+Iterative denoising trees ( IDT ) to reduce dimensionality of time series behaviour  
+http://www.people.vcu.edu/~kegiles/iterative_denoising.html
+https://github.com/youngser/behaviotypes  
+
+
+## Compute infrastructure session 
+Galaxy is going docker - using docker containers to for visualization 
+and server-side sorting - to sort and manipulate large scale data sets from a ligthtweight UI 
+
+##3 Talk 2 
+Processing large-scale data in the cloud, using Google Preempt VMs ( very cheap, max. 24h available, no guarantee) to save money.
+
+Achieved processing all of TCGA data (12,000 samples) for 800 $ in the cloud - RNAseq data. 
+- ideally alignment tools would support FASTQ and BAM 
+-rpvide twoversions of the sequencing reads 
+
+publication: " 
+
+Read about programs : Kallisto bwa    
+
+## Talk thursday - Gene priorization 
+- Univariable - score each gene bassed on the correlation fo tis expression with drug response 
+ProGENI tool
+
+
+
