@@ -171,5 +171,36 @@ ProGENI tool
 
 Theme: Complex workflwos on any cloud, with Docker containers is pretty much what everyone is doing.  
 
+### Saturday session - Tons of docker in science
+Benedikt Paten (Santa Cruz Genomic Institute) opend session with a talk about ADAM, Dockstore and a Toil - a workflow execution engine. Manage large structures of VMs and workflows. used for Toil RNAseq recomputing. 
+Vision: A multi-vendor workflow engine - AWS , Azure, Google, HPC  with Arvados, S3, Google bucket storage 
+http://dockstore.org
+https://github/BD2KGenomis/toil  
 
+Dockstore - Search Docker Tools and Workflows for the Sciences - open system similar to gitHub or DockerHub.  
+Supported by GA4GH ( Global Alliance for Genomics and Health ) 
+Working towards reviewed Docker containers - with authorship and references 
+
+- dockstore-tool-bamstats, samtools,  is an example 
+- visit https://quay.io for a tutorial  
+
+## IHEC - International Human Epigenome Consortium 
+
+
+## ZENBU - Genome browser 
+Jessica Severin - tool to upload and visualize BAM files and variations ( GVCHF )   
+
+Evolving the human genome assembly and the move towards graph genomes - mainly for viruses and bacteria. 
+
+EBI genome reference - curation of reference assembly / NIH National Library of Medicine 
+
+Challenges : Centralized data storage ( before distributed for sequencing and annotation ). Curation done via web interface or Perl API.   
+RIncoming data -> annotation / QC /  
+
+Assembly model changes - moving towards diploid assemblies
+
+## Graph genomes  
+
+https://www.sbgenomics.com/graph/   for vial genomoe and population genomics.
+Variation graphs https://github.com/vgteam/vg   
 
